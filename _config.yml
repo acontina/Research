@@ -5,13 +5,3 @@ title: Andrea Contina
 description: Research Fellow at UT Austin
 
 
-links:
-  - title: About Page
-    url: /about/
-  - title: Posts
-    url: /posts/
-  - title: Other Page
-    url: /other-page/
-  - title: External Page
-    url: http://mademistakes.com
-    external: true
