@@ -1,6 +1,10 @@
 theme: jekyll-theme-minimal
 #logo: /assets/img/logo.png
 logo: /images/redugit.JPG
+title: Andrea Contina
+description: Research Fellow at UT Austin
+
+
 links:
   - title: About Page
     url: /about/
