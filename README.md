@@ -1,8 +1,6 @@
-# Ecolology - Evolution - Conservation
-...
+# Ecology - Evolution - Conservation
 
-1t
-[Teaching](https://github.com/acontina/Research/blob/main/Teaching.md)
+[Teaching](https://github.com/acontina/Research/Teaching.md)
 
 
 
@@ -11,7 +9,8 @@ Hi! I am Andrea. I am a Research Fellow at The University of Texas (Austin) and 
 2019-2021: Postdoctoral Fellow – University of Colorado Denver [NSF-ORIGIN]. 2016-2018: Postdoc Teaching Fellow – National Science Foundation (NSF) National Research Traineeship (NRT) program at the University of Oklahoma (OU)
 
 ——————————————————————————————————-
-## Read more about my research tools: How do we study the ecology and evolution of animal migration?
+## Read more about my research tools: 
+## How do we study the ecology and evolution of animal migration?
 
 ### STABLE ISOTOPES
 
