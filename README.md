@@ -1,7 +1,7 @@
 # Ecology - Evolution - Conservation
 
 * [Home](https://acontina.github.io/Research)
-* [Publications](https://acontina.github.io/Pubs)
+* [Publications](https://acontina.github.io/Publications)
 * [Teaching](https://acontina.github.io/Teaching)
 * [Contact](https://acontina.github.io/contact)
 
