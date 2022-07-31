@@ -1,6 +1,6 @@
 # Ecology - Evolution - Conservation
 
-[Teaching](https://github.com/acontina/Research/Teaching.md)
+[Teaching](https://github.com/acontina/Research/main/Teaching.md)
 
 Hi! I am Andrea. I am a Research Fellow at The University of Texas (Austin) and I am interested in movement ecology, evolution, and wildlife conservation, as well as STEM education and outreach. My academic training focuses on avian research, animal movements, and molecular ecology (stable isotopes and genetic markers). Overall, my professional career includes 20yrs of research in ecology and conservation biology in the US, Central America, Europe, and Africa.
 
