@@ -1,13 +1,10 @@
 # Ecology - Evolution - Conservation
 
-[Home](https://acontina.github.io/Research) [Teaching](https://acontina.github.io/Teaching) [Contact](https://acontina.github.io/Research)
+[Home](https://acontina.github.io/Research)  |  [Teaching](https://acontina.github.io/Teaching)  |  [Contact](https://acontina.github.io/Research)
 
-Hi! I am Andrea. I am a Research Fellow at The University of Texas (Austin) and I am interested in movement ecology, evolution, and wildlife conservation, as well as STEM education and outreach. My academic training focuses on avian research, animal movements, and molecular ecology (stable isotopes and genetic markers). Overall, my professional career includes 20yrs of research in ecology and conservation biology in the US, Central America, Europe, and Africa.
-
-2019-2021: Postdoctoral Fellow – University of Colorado Denver [NSF-ORIGIN]. 2016-2018: Postdoc Teaching Fellow – National Science Foundation (NSF) National Research Traineeship (NRT) program at the University of Oklahoma (OU)
+Hi! I am Andrea. I am a Research Fellow at The University of Texas (Austin) and I am interested in movement ecology, evolution, and wildlife conservation, as well as STEM education and outreach. My academic training focuses on avian research, animal movements, and molecular ecology tools such as stable isotopes and genetic markers.
 
 ——————————————————————————————————-
-## Read more about my research tools: 
 ## How do we study the ecology and evolution of animal migration?
 
 ### STABLE ISOTOPES
