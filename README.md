@@ -7,7 +7,7 @@
 
 Hi! I am Andrea. I am a Research Fellow at The University of Texas (Austin) and I am interested in movement ecology, evolution, and wildlife conservation, as well as STEM education and outreach. My academic training focuses on avian research, animal movements, and molecular ecology.
 
-——————————————————————————————————-
+---------------------------------------------------------
 ## How do we study the ecology and evolution of animal migration?
 
 ### STABLE ISOTOPES
