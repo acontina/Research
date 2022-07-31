@@ -3,3 +3,4 @@ theme: jekyll-theme-minimal
 logo: /images/redugit.JPG
 title:  Andrea Contina
 #show_downloads: true
+plugins: ['jekyll-twitter-plugin']
