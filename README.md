@@ -1,13 +1,15 @@
 # Ecology - Evolution - Conservation
 
-[Home](https://acontina.github.io/Research) | [Teaching](https://acontina.github.io/Teaching) | [Contact](https://acontina.github.io/Research)
+* [Home](https://acontina.github.io/Research)
+* [Teaching](https://acontina.github.io/Pubs)
+* [Teaching](https://acontina.github.io/Teaching)
+* [Contact](https://acontina.github.io/Research)
 
 Hi! I am Andrea. I am a Research Fellow at The University of Texas (Austin) and I am interested in movement ecology, evolution, and wildlife conservation, as well as STEM education and outreach. My academic training focuses on avian research, animal movements, and molecular ecology tools such as stable isotopes and genetic markers.
 ——————————————————————————————————-
 ## How do we study the ecology and evolution of animal migration?
 
 ### STABLE ISOTOPES
-![image](https://user-images.githubusercontent.com/21181961/182005623-18f28b1f-6284-4117-96dd-a9fc429d6622.png)
 
 “You are what you eat”. Organisms are made of the food resources they consume and different stable isotope signatures of common elements such as carbon, hydrogen, and nitrogen are progressively incorporated in growing tissues – providing information on different environments and diets. I use stable isotopes to track animal movements through different environments and to reconstruct foraging preferences.
 
