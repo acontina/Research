@@ -29,7 +29,4 @@ After data collection and analysis… we still need to organize our new knowledg
 ---------------------------------------------------------
 https://twitter.com/andrea_contina 
 
-{% plugin_type twitter_url *options %}
-
-# Example for timeline of the **jekyllrb** user with a maximum of 5 Tweets and with a width of 500px
 {% twitter https://twitter.com/andrea_contina maxwidth=500 limit=5 %}
