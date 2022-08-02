@@ -12,7 +12,7 @@ Hi! I am Andrea. I am a Research Fellow at [The University of Texas (Austin)](ht
 
 ### STABLE ISOTOPES
 
-“You are what you eat”. Organisms are made of the food resources they consume and different stable isotope signatures of common elements such as carbon, hydrogen, and nitrogen are progressively incorporated in growing tissues – providing information on different environments and diets. I use stable isotopes to track animal movements and to reconstruct foraging preferences.
+“You are what you eat”. Organisms are made of the food resources they consume and different stable isotope signatures of common elements such as carbon, hydrogen, and nitrogen are progressively incorporated in growing tissues – providing information on different environments and diets. I use stable isotopes (H, C, N) to track animal movements and to reconstruct foraging preferences.
 
 ### DNA MARKERS
 
