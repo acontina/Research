@@ -27,4 +27,4 @@ It is not easy to track movements in small (≤ 15 grams) migrant songbirds! Alt
 After data collection and analysis… we still need to organize our new knowledge under an integrated ecological framework. My goal is to provide a way to methodically integrate ecological and evolutionary biology information through modern bioinformatics and R coding language.
 
 ---------------------------------------------------------
-https://twitter.com/andrea_contina 
+![image](https://user-images.githubusercontent.com/21181961/182423606-5fd0b664-3dd7-4bbb-9d0b-e1d7025c2842.png)[https://twitter.com/andrea_contina](https://twitter.com/andrea_contina)
