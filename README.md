@@ -28,5 +28,3 @@ After data collection and analysis… we still need to organize our new knowledg
 
 ---------------------------------------------------------
 https://twitter.com/andrea_contina 
-
-{% twitter https://twitter.com/andrea_contina maxwidth=500 limit=5 %}
