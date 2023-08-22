@@ -5,7 +5,7 @@
 * [Teaching](https://acontina.github.io/teaching)
 * [Contact](https://acontina.github.io/contact)
 
-I am a Research Fellow at [The University of Texas (Austin)](https://sites.cns.utexas.edu/keittlab/our-team) and incoming Assistant Professor at the University of Texas Rio Grande Valley (UTRGVI). I am interested in movement ecology, evolution, and wildlife conservation, as well as STEM education and outreach. My academic training focuses on avian research, animal movements, and molecular ecology.
+I am a Research Fellow at [The University of Texas (Austin)](https://sites.cns.utexas.edu/keittlab/our-team) and incoming Assistant Professor at the University of Texas Rio Grande Valley (UTRGV). I am interested in movement ecology, evolution, and wildlife conservation, as well as STEM education and outreach. My academic training focuses on avian research, animal movements, and molecular ecology.
 
 ---------------------------------------------------------
 ## How do we study the ecology and evolution of animal migration?
